@@ -24,7 +24,7 @@ const statusMessages = ["made by tiyoky ❤️","otopia soon.. ","made by tiyoky
 
 
 let currentIndex = 0;
-const channelId = '1240768338129588236';
+const channelId = '';
 
 async function login() {
   try {
